@@ -47,4 +47,5 @@ I'm a community organizer with **[RVAsec](https://rvasec.com)** — specifically
 ---
 
 *Always down to talk security, hardware, or CTFs*
+
 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞

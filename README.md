@@ -8,8 +8,8 @@ SOC Analyst by day, aspiring red teamer by night. I work daily with **Splunk ES*
 
 **Offensive security & research**
 - CTF participation
-- Wireless protocol research
-- BLE / IoT security — currently using Nordic nRF52840 dongles and a WCH BLE Analyzer Pro passive sniffer
+- Wireless protocol research (with an Alfa AC1900 & Wireshark)
+- BLE / IoT security (currently using Nordic nRF52840 dongles and a WCH BLE Analyzer Pro passive sniffer)
 
 **Defensive side**
 - SIEM engineering and detection work in Splunk ES
@@ -28,7 +28,7 @@ SOC Analyst by day, aspiring red teamer by night. I work daily with **Splunk ES*
 
 ## community
 
-I'm a community organizer with **[RVAsec](https://rvasec.com)** — specifically the **Deep Dives** monthly cybersecurity meetup in the Richmond, VA area. We bring in speakers on everything from career development to drone hacking. Come through if you're local.
+I'm a community organizer with **[RVAsec](https://rvasec.com)** — specifically the **Deep Dive** monthly cybersecurity meetup in the Richmond, VA area. We bring in speakers on everything from career development to drone hacking. Come through if you're local.
 
 ---
 

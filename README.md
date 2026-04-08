@@ -27,7 +27,7 @@ SOC Analyst by day, aspiring red teamer by night. I work daily with **Splunk ES*
 
 ## community
 
-I'm a community organizer with **[RVAsec](https://rvasec.com)** — specifically the **Deep Dive** monthly cybersecurity meetup in the Richmond, VA area. We bring in speakers on everything from career development to drone hacking. Come through if you're local.
+I'm a community organizer with **[RVAsec](https://rvasec.com/about/)**. Specifically the **Deep Dive** monthly meetups in the Richmond, VA area. We bring in speakers on everything from career development to drone hacking. Come through if you're local.
 
 ---
 

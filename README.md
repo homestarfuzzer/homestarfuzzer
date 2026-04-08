@@ -18,11 +18,10 @@ SOC Analyst by day, aspiring red teamer by night. I work daily with **Splunk ES*
 
 ---
 
-## certs & studying
+## certs
 
 - CompTIA **Security+**
 - CompTIA **PenTest+**
-- CEH in progress
 
 ---
 
